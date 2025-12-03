@@ -15,7 +15,7 @@ Installation
 
 To install ``probitlcmlongit_extra``, download the source package, unzip it, and run ``python3.X -m pip install pathtosourcedir/`` (if not in a virtual environment, run ``python3.X -m pip install --user pathtosourcedir/``). Note that ``probitlcmlongit`` (https://github.com/ericwayman01/probitlcmlongit) is a dependency of this package.
 
-The instructions for using ``probitlcmlongit_extra`` is contained within the documentation for the ``probitlcmlongit`` package, available at https://ericwayman.net/software/docs/probitlcmlongit/ .
+The instructions for using ``probitlcmlongit_extra`` are contained within the documentation for the ``probitlcmlongit`` package, available at https://ericwayman.net/software/docs/probitlcmlongit/ .
 
 License
 =======
