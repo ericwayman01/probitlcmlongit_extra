@@ -8,7 +8,7 @@ The ``probitlcmlongit`` package implements the model described in the `manuscrip
 
   Eric Alan Wayman, Steven Andrew Culpepper, Jeff Douglas, and Jesse Bowers. "A Restricted Latent Class Hidden Markov Model for Polytomous Responses, Polytomous Attributes, and Covariates: Identifiability and Application." arXiv preprint arXiv:2503.20940, 2025.
   
-If you make use of ``probitlcmlongit_extra``, please cite one of the above.
+If you make use of ``probitlcmlongit_extra``, please cite the above.
 
 Installation
 ============
