@@ -1,0 +1,31 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "probitlcmlongit_extra"
+version = "0.0.1"
+description="Assists in the operation of the probitlcmlongit package"
+authors = [
+  { name = "Eric Alan Wayman", email = "ericwaymanpublications@mailworks.org" },
+]
+readme = "README.rst"
+requires-python = ">=3.11"
+classifiers = [
+  "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3.14"
+]
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "pandas",
+    "probitlcmlongit"
+]
+
+[project.urls]
+Homepage = "https://github.com/ericwayman01/probitlcmlongit_extra"
